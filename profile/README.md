@@ -1,25 +1,15 @@
-<table width="100%">
-<tr>
-<td width="70%">
+<p align="center">
+  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="180"/>
+</p>
 
-# 🌸 Welcome to MimiruLabs
+<h1 align="center">🌸 Welcome to MimiruLabs</h1>
 
-**MimiruLabs** is the home of **Mimiru** — an evolving platform inspired by anime, manga, and light novels.
-
-We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
-
-</td>
-<td align="right" width="30%">
-  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="300"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>MimiruLabs</b> is the home of <b>Mimiru</b> — an evolving platform inspired by anime, manga, and light novels.<br>
+  We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
+</p>
 
 ---
-
-<table width="100%">
-<tr>
-<td>
 
 ## 🏢 About the Organisation
 
@@ -32,15 +22,7 @@ We believe in:
 - 🤗 Welcoming all voices and perspectives  
 - 🛠️ Open-source collaboration and transparency  
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table width="100%">
-<tr>
-<td>
 
 ## 🧩 What is Mimiru?
 
@@ -49,15 +31,7 @@ Mimiru is a multi-part platform built around a shared goal:
 
 Whether you're here to read, explore, or create — Mimiru grows with you.
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table width="100%">
-<tr>
-<td>
 
 ## 🛠️ Platform Structure
 
@@ -69,15 +43,7 @@ Mimiru consists of several interconnected layers:
 
 > All parts work together as a single cohesive system.
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table width="100%">
-<tr>
-<td>
 
 ## 🌌 Vision
 
@@ -88,15 +54,7 @@ We aim to create a platform that is:
 - 📚 Friendly to both readers and creators  
 - 🔮 Built to expand over time — stories, features, and community tools
 
-</td>
-</tr>
-</table>
-
 ---
-
-<table width="100%">
-<tr>
-<td>
 
 ## 📬 Stay Connected
 
@@ -104,10 +62,6 @@ We aim to create a platform that is:
 - 🌐 Website under development  
 - 🛸 Contributions always welcome!  
 
-</td>
-</tr>
-</table>
-
 ---
 
-> _Mimiru is not just a project — it’s a world in the making._
+<p align="center"><i>Mimiru is not just a project — it’s a world in the making.</i></p>
