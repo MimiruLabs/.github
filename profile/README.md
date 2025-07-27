@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/mimirulabs-avatar.png" alt="MimiruLabs Avatar" width="120" />
-</p>
+![MimiruLabs Organisation Avatar](assets/avatar.jpg)
 
 # 🌸 Welcome to MimiruLabs
 
