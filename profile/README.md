@@ -1,4 +1,6 @@
-![MimiruLabs Organisation Avatar](assets/avatar.jpg)
+<p align="center">
+  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120" style="border-radius: 50%;" />
+</p>
 
 # 🌸 Welcome to MimiruLabs
 
