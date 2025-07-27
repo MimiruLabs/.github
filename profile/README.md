@@ -1,15 +1,19 @@
-<div align="left" style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-  
+<table>
+<tr>
+<td>
+
 # 🌸 Welcome to MimiruLabs
 
 **MimiruLabs** is the home of **Mimiru** — an evolving platform inspired by anime, manga, and light novels.
 
 We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
 
-  </div>
-  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120" style="margin-left: 32px;" />
-</div>
+</td>
+<td>
+  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120"/>
+</td>
+</tr>
+</table>
 
 ---
 
