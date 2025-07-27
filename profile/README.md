@@ -17,6 +17,10 @@ We’re building a unified experience for discovering, reading, discussing, and 
 
 ---
 
+<table>
+<tr>
+<td>
+
 ## 🏢 About the Organisation
 
 MimiruLabs is a collective of creators, technologists, and fans passionate about anime, manga, and storytelling.  
@@ -24,11 +28,19 @@ Our mission is to empower communities and creators by building open, beautiful, 
 
 We believe in:
 
-- 🌱 Growth through creativity and technology
-- 🤗 Welcoming all voices and perspectives
-- 🛠️ Open-source collaboration and transparency
+- 🌱 Growth through creativity and technology  
+- 🤗 Welcoming all voices and perspectives  
+- 🛠️ Open-source collaboration and transparency  
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td>
 
 ## 🧩 What is Mimiru?
 
@@ -37,7 +49,15 @@ Mimiru is a multi-part platform built around a shared goal:
 
 Whether you're here to read, explore, or create — Mimiru grows with you.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td>
 
 ## 🛠️ Platform Structure
 
@@ -49,7 +69,15 @@ Mimiru consists of several interconnected layers:
 
 > All parts work together as a single cohesive system.
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td>
 
 ## 🌌 Vision
 
@@ -60,13 +88,25 @@ We aim to create a platform that is:
 - 📚 Friendly to both readers and creators  
 - 🔮 Built to expand over time — stories, features, and community tools
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td>
 
 ## 📬 Stay Connected
 
-- 💬 Discussions coming soon
-- 🌐 Website under development
-- 🛸 Contributions always welcome!
+- 💬 Discussions coming soon  
+- 🌐 Website under development  
+- 🛸 Contributions always welcome!  
+
+</td>
+</tr>
+</table>
 
 ---
 
