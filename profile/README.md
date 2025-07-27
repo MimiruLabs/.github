@@ -1,8 +1,25 @@
+<p align="center">
+  <img src="assets/mimirulabs-avatar.png" alt="MimiruLabs Avatar" width="120" />
+</p>
+
 # 🌸 Welcome to MimiruLabs
 
 **MimiruLabs** is the home of **Mimiru** — an evolving platform inspired by anime, manga, and light novels.
 
 We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
+
+---
+
+## 🏢 About the Organisation
+
+MimiruLabs is a collective of creators, technologists, and fans passionate about anime, manga, and storytelling.  
+Our mission is to empower communities and creators by building open, beautiful, and collaborative digital spaces.
+
+We believe in:
+
+- 🌱 Growth through creativity and technology
+- 🤗 Welcoming all voices and perspectives
+- 🛠️ Open-source collaboration and transparency
 
 ---
 
