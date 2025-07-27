@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="70%">
 
 # 🌸 Welcome to MimiruLabs
 
@@ -9,7 +9,7 @@
 We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
 
 </td>
-<td>
+<td align="right" width="30%">
   <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="300"/>
 </td>
 </tr>
@@ -17,7 +17,7 @@ We’re building a unified experience for discovering, reading, discussing, and 
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -38,7 +38,7 @@ We believe in:
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -55,7 +55,7 @@ Whether you're here to read, explore, or create — Mimiru grows with you.
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -75,7 +75,7 @@ Mimiru consists of several interconnected layers:
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -94,7 +94,7 @@ We aim to create a platform that is:
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
