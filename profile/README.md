@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120" style="border-radius: 50%;" />
-</p>
-
+<div align="left" style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+  
 # 🌸 Welcome to MimiruLabs
 
 **MimiruLabs** is the home of **Mimiru** — an evolving platform inspired by anime, manga, and light novels.
 
 We’re building a unified experience for discovering, reading, discussing, and supporting the stories we love — all in one place.
+
+  </div>
+  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120" style="margin-left: 32px;" />
+</div>
 
 ---
 
