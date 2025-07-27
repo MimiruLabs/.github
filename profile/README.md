@@ -10,7 +10,7 @@ We’re building a unified experience for discovering, reading, discussing, and 
 
 </td>
 <td>
-  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="300"/>
+  <img src="assets/avatar.jpg" alt="MimiruLabs Organisation Avatar" width="120"/>
 </td>
 </tr>
 </table>
